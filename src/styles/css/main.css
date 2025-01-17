@@ -45,4 +45,9 @@ img {
   display: block;
 }
 
+fieldset {
+  border: none;
+  min-width: 0;
+}
+
 /*# sourceMappingURL=main.css.map */
