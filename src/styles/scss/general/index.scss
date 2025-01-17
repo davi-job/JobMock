@@ -81,3 +81,9 @@ img {
 
     display: block;
 }
+
+// Reset default fieldset styles
+fieldset {
+    border: none;
+    min-width: 0;
+}
